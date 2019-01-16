@@ -19,6 +19,15 @@
   
   console.log(test());
   ```
+  
+  IN THE FOLLOWING CODE, WE'LL SEE :
+  First :Aurelio De Rosa, because the function is defined in the key 'prop', so will
+        read the last full name.
+  Second :Aurelio De Rosa, because the variable 'test' have the same scope comparing
+        to the first.
+  
+  
+  
 
 2. What will you see in the console for the following example?
   ```
@@ -61,3 +70,9 @@ Lemmy Kilmister, 57, 21120
 * Write a function that accepts a zip code parameter and prints out all the people in the array with a matching zip code, or print the message ```No match found for zip code!``` if there is no match
 
 
+
+
+
+
+
+           
